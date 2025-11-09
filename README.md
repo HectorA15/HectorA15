@@ -1,6 +1,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+Hector!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student)](https://git.io/typing-svg)
 
+ <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+Hector!"
+      alt="Hi, I'm Hector!"
+      style="display:block; margin:12px auto; max-width:800px; width:100%; height:auto;"
+    />
+  </a>
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student"
+      alt="A third-year Computer Systems Engineering student"
+      style="display:block; margin:12px auto; max-width:800px; width:100%; height:auto;"
+    />
+  </a>
+
 ## Lenguages & Framework
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
 ## Tools
@@ -35,7 +51,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=HectorA15" />
-  </picture>
+  <picture>
   
   <picture>
     <source
