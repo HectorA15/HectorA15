@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+Hector!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student)](https://git.io/typing-svg)
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/522791389184917509)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:crusch1503@gmail.com)
 ## Lenguages & Framework
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
 ## Tools
