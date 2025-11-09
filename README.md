@@ -9,17 +9,22 @@
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 ## 🚀 About Me
-- 🇲🇽 **Native Spanish speaker. English — B2 (Upper‑intermediate)**
-- 🔭 **Always learning new technologies and improving my projects** 
-- 🫠 **Passionate about backend and frontend development** 
+- **I'm a student, focused on backend over frontend**
+- **Native Spanish speaker. English — B2 (Upper‑intermediate)**
+- **Always looking to learn new technologies and improve my projects** 
+- **I'm actively looking to apply my skills in internships, side projects, or open-source contributions**
 
 ## 🛠 Skills
-- **Languages: Java (Basics), Python (Basics), HTML (learning)**
+- **Languages: Java, Python (Basics), HTML (learning)**
 - **Web: HTML, CSS (Basics)**
 - **Tools: Git (Learning), VSCode, JetBrains**
 
-##
+## Featured Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=Duality)](https://github.com/HectorA15/Duality)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=MusicPlayer)](https://github.com/HectorA15/MusicPlayer)
+##
 <!-- Stadistica y puntaje S, A, B, C, F & Porcentaje de lenguajes utilizados  -->
   <!-- GitHub Stats -->
 <p align="center">
