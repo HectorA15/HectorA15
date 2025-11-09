@@ -26,6 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=MusicPlayer" width="320" alt="MusicPlayer">
   </a>
 </p>
+
 ##
 <!-- Stadistica y puntaje S, A, B, C, F & Porcentaje de lenguajes utilizados  -->
   <!-- GitHub Stats -->
