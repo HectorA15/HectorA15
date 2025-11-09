@@ -18,21 +18,14 @@
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/HectorA15/Duality">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=Duality" alt="Duality">
-      </a>
-    </td>
-    <td width="20"></td> 
-    <td align="center">
-      <a href="https://github.com/HectorA15/MusicPlayer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=MusicPlayer" alt="MusicPlayer">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/HectorA15/Duality">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=Duality" width="340" alt="Duality">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/HectorA15/MusicPlayer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=MusicPlayer" width="340" alt="MusicPlayer">
+  </a>
+</p>
 
 ##
   <!-- GitHub Stats -->
