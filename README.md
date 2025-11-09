@@ -1,18 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+Hector!)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+Hector!" alt="Hi, I'm Hector!">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student" alt="A third-year...">
-  </a>
-</p>
-
 ## Lenguages & Framework
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
 ## Tools
@@ -30,9 +18,14 @@
 
 ## Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=Duality)](https://github.com/HectorA15/Duality)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=MusicPlayer)](https://github.com/HectorA15/MusicPlayer)
+<p align="center">
+  <a href="https://github.com/HectorA15/Duality">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=Duality" width="320" alt="Duality">
+  </a>
+  <a href="https://github.com/HectorA15/MusicPlayer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=MusicPlayer" width="320" alt="MusicPlayer">
+  </a>
+</p>
 ##
 <!-- Stadistica y puntaje S, A, B, C, F & Porcentaje de lenguajes utilizados  -->
   <!-- GitHub Stats -->
