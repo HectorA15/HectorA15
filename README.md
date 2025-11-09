@@ -1,4 +1,4 @@
-#
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&lines=Hi%2C+I'm+Hector!)](https://git.io/typing-svg)
 ### A third-year Computer Systems Engineering student 
 
