@@ -9,7 +9,7 @@
   <!-- Dark theme: muestra texto blanco -->
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student">
   <!-- Light theme (fallback): muestra texto negro -->
-  <img alt="A third-year Computer Systems Engineering student" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student" />
+  <img alt="A third-year Computer Systems Engineering student" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+second-year+Computer+Systems+Engineering+student" />
 </picture>
 
 ## Lenguages & Framework
