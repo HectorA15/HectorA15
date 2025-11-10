@@ -110,9 +110,7 @@
   </picture>
 
   <picture>
-    <source
-       src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:051741,100:4885ee"
-    />
+    <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:051741,100:4885ee" />
   </picture>
 </p>
 
