@@ -108,12 +108,13 @@
     />
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=HectorA15" />
   </picture>
+
+  <picture>
+    <source
+       src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:051741,100:4885ee"
+    />
+  </picture>
 </p>
-
-
-
-
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:051741,100:4885ee&customColorList=22)
 
 ## Thanks for reading my profile! Have a nice day 😊
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
