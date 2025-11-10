@@ -1,5 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+Hector!)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student)](https://git.io/typing-svg)
+<picture>
+  <!-- Dark theme: muestra texto blanco -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I%27m+Hector%21">
+  <!-- Light theme (fallback): muestra texto negro -->
+  <img alt="Hi, I'm Hector!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I%27m+Hector%21" />
+</picture>
+
+<picture>
+  <!-- Dark theme: muestra texto blanco -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student">
+  <!-- Light theme (fallback): muestra texto negro -->
+  <img alt="A third-year Computer Systems Engineering student" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+third-year+Computer+Systems+Engineering+student" />
+</picture>
 
 ## Lenguages & Framework
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
