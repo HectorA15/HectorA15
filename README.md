@@ -13,7 +13,9 @@
 </picture>
 
 ## Lenguages & Framework
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css)](https://skillicons.dev)
+<picture>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css"/>
+</picture>
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 ## 🚀 About Me
