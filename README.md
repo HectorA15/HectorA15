@@ -16,8 +16,12 @@
 <picture>
   <img src="https://skillicons.dev/icons?i=java,python,html,css"/>
 </picture>
+
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+<picture>
+  <img src="https://skillicons.dev/icons?i=docker"/>
+</picture>
+
 ## 🚀 About Me
 - **I'm a student, focused on backend over frontend**
 - **Native Spanish speaker. English — B2 (Upper‑intermediate)**
