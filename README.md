@@ -106,18 +106,6 @@
       alt="I'm Awake?"
     />
   </picture>
-  
-  <picture>
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=HectorA15&theme=transparent&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=HectorA15&theme=transparent&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HectorA15&hide_border=true"/>
-  </picture> 
 
   <picture>
     <source
