@@ -33,26 +33,7 @@
 - **Web: HTML, CSS (Basics)**
 - **Tools: Git (Learning), VSCode, JetBrains**
 
-## Featured Projects
 
-
-<p align="center">
-  <a href="https://github.com/HectorA15/Duality">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=Duality&cache_seconds=86400"
-      width="340"
-      alt="Duality"
-    />
-  </a>
-  <a href="https://github.com/HectorA15/MusicPlayer">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=HectorA15&repo=MusicPlayer&cache_seconds=86400"
-      width="340"
-      alt="MusicPlayer"
-    />
-  </a>
-</p>
-##
   <!-- GitHub Stats -->
 <p align="center">
   <!-- Main stats -->
@@ -110,7 +91,6 @@
 
 
 
-##
 <p align="center">
   <picture>
     <source
