@@ -47,28 +47,56 @@
 ##
   <!-- GitHub Stats -->
 <p align="center">
+  <!-- Main stats -->
   <picture>
     <source
-      <img height=200 srcset="https://github-readme-stats.vercel.app/api?username=HectorA15&bg_color=00000000&text_color=ffffff&hide_border=true" 
+      srcset="https://github-readme-stats.vercel.app/api?username=HectorA15&bg_color=00000000&text_color=ffffff&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      <img height=200 srcset="https://github-readme-stats.vercel.app/api?username=HectorA15&hide_border=true" 
+      srcset="https://github-readme-stats.vercel.app/api?username=HectorA15&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=HectorA15" />
-  <picture>
-  
+    <img
+      height="200"
+      src="https://github-readme-stats.vercel.app/api?username=HectorA15&hide_border=true"
+      alt="GitHub stats"
+    />
+  </picture>
+
+  <!-- Top langs -->
   <picture>
     <source
-      <img height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorA15&bg_color=00000000&text_color=ffffff&layout=compact&card_width=300&hide_border=true" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorA15&bg_color=00000000&text_color=ffffff&layout=compact&card_width=300&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      <img height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorA15&bg_color=00000000&layout=compact&card_width=300&hide_border=true" 
-      media="(prefers-color-scheme: light),(prefers-color-scheme: no-preference)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorA15&layout=compact&card_width=300&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=HectorA15&layout=compact&langs_count=8&card_width=300" />
+    <img
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorA15&layout=compact&card_width=300&hide_border=true"
+      alt="Top languages"
+    />
+  </picture>
+</p>
+
+<!-- Streak -->
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=HectorA15&theme=transparent&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=HectorA15&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=HectorA15&hide_border=true"
+      alt="GitHub streak"
+    />
   </picture>
 </p>
 
