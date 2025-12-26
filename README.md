@@ -14,7 +14,7 @@
 
 ## Lenguages & Framework
 <picture>
-  <img src="https://skillicons.dev/icons?i=java,python,sql,html,css"/>
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,html,css"/>
 </picture>
 
 ## Tools
