@@ -9,13 +9,12 @@
   <!-- Dark theme: white text -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+Fourth-year+Computer+Systems+Engineering+student+%E2%80%94+focused+on+backend+development" />
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Software+Engineer+Student+%E2%80%94+focused+on+backend" />
   <!-- Light theme (fallback): black text -->
   <img
-    alt="A Fourth-year Computer Systems Engineering student — focused on backend development"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+Fourth-year+Computer+Systems+Engineering+student+%E2%80%94+focused+on+backend+development" />
+    alt="Software Engineer Student — focused on backend"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Software+Engineer+Student+%E2%80%94+focused+on+backend" />
 </picture>
-
 
 ## Lenguages & Framework
 <picture>
