@@ -7,9 +7,9 @@
 
 <picture>
   <!-- Dark theme: muestra texto blanco -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+second-year+Computer+Systems+Engineering+student">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+Fourth-year+Computer+Systems+Engineering+student+—+focused+on+backend+development">
   <!-- Light theme (fallback): muestra texto negro -->
-  <img alt="A third-year Computer Systems Engineering student" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+second-year+Computer+Systems+Engineering+student" />
+  <img alt="A Fourth-year Computer Systems Engineering student — focused on backend development" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+Fourth-year+Computer+Systems+Engineering+student+—+focused+on+backend+development" />
 </picture>
 
 ## Lenguages & Framework
@@ -23,16 +23,28 @@
 </picture>
 
 ## 🚀 About Me
-- **I'm a student, focused on backend over frontend**
+- **I'm a student, focused on backend and automation**
 - **Native Spanish speaker. English — B2 (Upper‑intermediate)**
 - **Always looking to learn new technologies and improve my projects** 
 - **I'm actively looking to apply my skills in internships, side projects, or open-source contributions**
 
 ## 🛠 Skills
-- **Languages: Java, Python (Basics), HTML (learning)**
-- **Web: HTML, CSS (Basics)**
-- **Tools: Git (Learning), VSCode, JetBrains**
+- Java — Intermediate: OOP, Collections, Streams, Lambdas, basic functional programming
+- Python — Basic/Intermediate: scripting, file I/O, small automation tools
+- SQL — Basic/Intermediate: SELECT, JOIN, GROUP BY, basic queries
+- JSON — Familiar: parsing/producing JSON in projects
+- HTML & CSS — Learning (basics for small UI or docs)
 
+### Tools & Workflow
+- Git / GitHub — working knowledge (branches, PRs)
+- VS Code, JetBrains IDEs
+- Docker — Learning (basic containerization)
+- Basic testing: pytest (Python) / unit testing concepts
+
+## What I'm learning
+- Deeper Python for automation (subprocess, pathlib, logging, psutil)
+- Docker + simple CI/CD (GitHub Actions)
+- More Java concurrency and testing (JUnit)
 
   <!-- GitHub Stats -->
 <p align="center">
