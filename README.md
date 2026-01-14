@@ -30,7 +30,6 @@
 - **I'm a student, focused on backend and automation**
 - **Native Spanish speaker. English — B2 (Upper‑intermediate)**
 - **Always looking to learn new technologies and improve my projects** 
-- **I'm actively looking to apply my skills in internships, side projects, or open-source contributions**
 
 ## Skills
 - Java — Intermediate: OOP, Collections, Streams, Lambdas, basic functional programming
