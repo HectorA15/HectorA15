@@ -6,11 +6,16 @@
 </picture>
 
 <picture>
-  <!-- Dark theme: muestra texto blanco -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+Fourth-year+Computer+Systems+Engineering+student+—+focused+on+backend+development">
-  <!-- Light theme (fallback): muestra texto negro -->
-  <img alt="A Fourth-year Computer Systems Engineering student — focused on backend development" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+Fourth-year+Computer+Systems+Engineering+student+—+focused+on+backend+development" />
+  <!-- Dark theme: white text -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+Fourth-year+Computer+Systems+Engineering+student+%E2%80%94+focused+on+backend+development" />
+  <!-- Light theme (fallback): black text -->
+  <img
+    alt="A Fourth-year Computer Systems Engineering student — focused on backend development"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=800&height=60&lines=A+Fourth-year+Computer+Systems+Engineering+student+%E2%80%94+focused+on+backend+development" />
 </picture>
+
 
 ## Lenguages & Framework
 <picture>
@@ -22,13 +27,13 @@
   <img src="https://skillicons.dev/icons?i=docker"/>
 </picture>
 
-## 🚀 About Me
+## About Me
 - **I'm a student, focused on backend and automation**
 - **Native Spanish speaker. English — B2 (Upper‑intermediate)**
 - **Always looking to learn new technologies and improve my projects** 
 - **I'm actively looking to apply my skills in internships, side projects, or open-source contributions**
 
-## 🛠 Skills
+## Skills
 - Java — Intermediate: OOP, Collections, Streams, Lambdas, basic functional programming
 - Python — Basic/Intermediate: scripting, file I/O, small automation tools
 - SQL — Basic/Intermediate: SELECT, JOIN, GROUP BY, basic queries
