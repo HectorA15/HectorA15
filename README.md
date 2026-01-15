@@ -32,9 +32,9 @@
 - **Always looking to learn new technologies and improve my projects** 
 
 ## Skills
-- Java — Intermediate: OOP, Collections, Streams, Lambdas, basic functional programming
-- Python — Basic/Intermediate: scripting, file I/O, small automation tools
-- SQL — Basic/Intermediate: SELECT, JOIN, GROUP BY, basic queries
+- Java — Basic/Intermediate: OOP, Collections, Streams, Lambdas, basic functional programming
+- Python — Basic: scripting, file I/O, small automation tools
+- SQL — Basic: SELECT, JOIN, GROUP BY, basic queries
 - JSON — Familiar: parsing/producing JSON in projects
 - HTML & CSS — Learning (basics for small UI or docs)
 
